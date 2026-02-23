@@ -19,8 +19,8 @@ What it covers:
 - Model evaluation with confusion matrix, classification metrics, and ROC/AUC comparisons
 
 Included files:
-- Notebook: `Project-3-Loan-Status-Prediction/notebooks/iguygael_DIAML_Assignment3.ipynb`
-- Report (PDF): `Project-3-Loan-Status-Prediction/reports/iguygael_DIAML_Assignment3.pdf`
+- Notebook: `Project-3-Loan-Status-Prediction/notebooks/project3_loan_status_prediction.ipynb`
+- Report (PDF): `Project-3-Loan-Status-Prediction/reports/project3_loan_status_prediction_report.pdf`
 
 ### Project 4: Life Expectancy Regression (Model Comparison + Tuning)
 Folder: `Project-4-Life-Expectancy-Regression/`
@@ -38,9 +38,9 @@ What it covers:
 - Evaluation with MSE, MAE, R2, and explained variance
 
 Included files:
-- Notebook: `Project-4-Life-Expectancy-Regression/notebooks/iguygael_DIAML_Assignment4.ipynb`
-- Report (DOCX): `Project-4-Life-Expectancy-Regression/reports/iguygael_DIAML_Assignment4.docx`
-- Report (PDF): `Project-4-Life-Expectancy-Regression/reports/iguygael_DIAML_Assignment4.pdf`
+- Notebook: `Project-4-Life-Expectancy-Regression/notebooks/project4_life_expectancy_regression.ipynb`
+- Report (DOCX): `Project-4-Life-Expectancy-Regression/reports/project4_life_expectancy_regression_report.docx`
+- Report (PDF): `Project-4-Life-Expectancy-Regression/reports/project4_life_expectancy_regression_report.pdf`
 
 ### Project 5: Financial Time Series Analysis, PCA, and Forecasting
 Folder: `Project-5-Financial-Time-Series-and-PCA/`
@@ -57,8 +57,8 @@ What it covers:
   - **LSTM**-based forecasting with PyTorch
 
 Included files:
-- Notebook: `Project-5-Financial-Time-Series-and-PCA/notebooks/iguygael_DIAML_Assignment5.ipynb`
-- Report (DOCX): `Project-5-Financial-Time-Series-and-PCA/reports/iguygael_DIAML_Assignment5.docx`
+- Notebook: `Project-5-Financial-Time-Series-and-PCA/notebooks/project5_financial_time_series_pca_forecasting.ipynb`
+- Report (DOCX): `Project-5-Financial-Time-Series-and-PCA/reports/project5_financial_time_series_pca_forecasting_report.docx`
 
 ## Notes
 - Some notebooks reference local datasets/files that may not be included in this repository.
