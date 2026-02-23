@@ -2,6 +2,9 @@
 
 This repository contains three projects completed for the **Data, Inference, and Applied Machine Learning (DIAML)** course.
 
+Portfolio-safe branch note:
+- This branch keeps notebooks and project summaries, but excludes submitted report files (`.pdf` / `.docx`).
+
 ## Projects
 
 ### Project 3: Loan Status Prediction (Classification)
@@ -18,9 +21,9 @@ What it covers:
   - SGD Classifier
 - Model evaluation with confusion matrix, classification metrics, and ROC/AUC comparisons
 
-Included files:
+Included files in this branch:
 - Notebook: `Project-3-Loan-Status-Prediction/notebooks/project3_loan_status_prediction.ipynb`
-- Report (PDF): `Project-3-Loan-Status-Prediction/reports/project3_loan_status_prediction_report.pdf`
+- Report files omitted in `portfolio-safe` branch
 
 ### Project 4: Life Expectancy Regression (Model Comparison + Tuning)
 Folder: `Project-4-Life-Expectancy-Regression/`
@@ -37,10 +40,9 @@ What it covers:
 - Hyperparameter tuning with **GridSearchCV** and **RandomizedSearchCV**
 - Evaluation with MSE, MAE, R2, and explained variance
 
-Included files:
+Included files in this branch:
 - Notebook: `Project-4-Life-Expectancy-Regression/notebooks/project4_life_expectancy_regression.ipynb`
-- Report (DOCX): `Project-4-Life-Expectancy-Regression/reports/project4_life_expectancy_regression_report.docx`
-- Report (PDF): `Project-4-Life-Expectancy-Regression/reports/project4_life_expectancy_regression_report.pdf`
+- Report files omitted in `portfolio-safe` branch
 
 ### Project 5: Financial Time Series Analysis, PCA, and Forecasting
 Folder: `Project-5-Financial-Time-Series-and-PCA/`
@@ -56,10 +58,10 @@ What it covers:
   - Forecasting comparison using SMA vs **ARIMA**
   - **LSTM**-based forecasting with PyTorch
 
-Included files:
+Included files in this branch:
 - Notebook: `Project-5-Financial-Time-Series-and-PCA/notebooks/project5_financial_time_series_pca_forecasting.ipynb`
-- Report (DOCX): `Project-5-Financial-Time-Series-and-PCA/reports/project5_financial_time_series_pca_forecasting_report.docx`
+- Report files omitted in `portfolio-safe` branch
 
 ## Notes
 - Some notebooks reference local datasets/files that may not be included in this repository.
-- Reports and notebooks are preserved in their original submitted formats.
+- Original submitted reports are preserved on `main` (private if you choose to keep the repo private there).
